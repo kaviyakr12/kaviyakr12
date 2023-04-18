@@ -2,7 +2,7 @@
 <h4 align="center">A passionate Software Enginner from India</h4>
 
 
-- 👀 BTech CS @ Kingston Engineering College
+- 👀 BTech IT @ Kingston Engineering College
 
 - 💙 Python Programmer
 
