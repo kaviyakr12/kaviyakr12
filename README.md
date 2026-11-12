@@ -5,6 +5,12 @@
   I Build scalable applications and reliable software solutions with a focus on performance and efficiency.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0078D4?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design%20%26%20Architecture-DC3545?style=for-the-badge&logo=blueprint&logoColor=white" />
+ <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Workflow%20Automation-FFC107?style=for-the-badge&logoColor=black" />
+</p>
+
 ---
 
 ### 🌟 Get to Know Me
