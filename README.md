@@ -16,23 +16,35 @@
 - ⚙️ Building AI-powered applications and intelligent solutions to solve real-world problems.
 - ⚡ Automating workflows to improve productivity and reduce manual effort.
 
----
+
 
 ### 💻 I code in
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=py" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
----
 
 ### 🛠️ Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,notion,git,anaconda,netlify" />
+  <img src="https://skillicons.dev/icons?i=vscode" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pycharm" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=anaconda" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" />
 </p>
 
----
+
 
 ### 🤝 Let us connect
 
@@ -42,9 +54,14 @@
   <a href=""><img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
 </p>
 
----
+
 
 ### 📈 LeetCode stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kaviya__K_R?theme=dark&font=Marcellus%20SC&ext=contest)](https://leetcode.com/u/Kaviya__K_R/)
+<p align="center">
+  <a href="https://leetcode.com/u/Kaviya__K_R/">
+    <img src="https://leetcard.jacoblin.cool/Kaviya__K_R?theme=dark&font=Marcellus%20SC&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
 
