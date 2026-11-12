@@ -1,22 +1,9 @@
-<div align="center">
+<h1 align="center">Hi, I am Kaviya👋</h1>
 
-# Hi, This is Kaviya 👋
-
-**Aspiring Software Engineer | Artificial Intelligence & Machine Learning Enthusiast | Problem Solver**
-
-I'm passionate about building real-world projects, solving Data Structures and Algorithms problems, and exploring Artificial Intelligence and Machine Learning.
-
-</div>
-
----
-
-<div align="center">
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35">](https://www.linkedin.com/in/kaviyaramesh/)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35">](https://leetcode.com/u/Kaviya__K_R/)&nbsp;&nbsp;&nbsp;
-[<img src="https://brandlogos.sgp1.digitaloceanspaces.com/png/simple-icons/geeksforgeeks-400.png" width="35">](https://www.geeksforgeeks.org/profile/kaviya1205?tab=activity)
-
-</div>
+<p align="center">
+  <b>Techie | Software Developer | AI/ML Explorer | Cloud Enthusiast | Problem Solver</b><br/>
+  I Build scalable applications and reliable software solutions with a focus on performance and efficiency.
+</p>
 
 ---
 
@@ -24,7 +11,40 @@ I'm passionate about building real-world projects, solving Data Structures and A
 
 - 💻 Practicing Data Structures and Algorithms to strengthen my problem-solving skills.
 - 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI.
-- 🌱 Building projects that solve real-world problems and expanding my software development skills.
+- 🌱 Building projects that solve real-world problems.
 - 🎯 Working towards becoming a skilled Software Engineer.
 - ⚙️ Building AI-powered applications and intelligent solutions to solve real-world problems.
-- 🤖 Automating workflows to improve productivity and reduce manual effort.
+- ⚡ Automating workflows to improve productivity and reduce manual effort.
+
+---
+
+### 💻 I code in
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,mysql,postgresql" />
+</p>
+
+---
+
+### 🛠️ Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,notion,git,anaconda,netlify" />
+</p>
+
+---
+
+### 🤝 Let us connect
+
+<p>
+  <a href="https://www.linkedin.com/in/kaviyaramesh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/kaviyaa.__.12/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+</p>
+
+---
+
+### 📈 LeetCode stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kaviya__K_R?theme=dark&font=Marcellus%20SC&ext=contest)](https://leetcode.com/u/Kaviya__K_R/)
+
